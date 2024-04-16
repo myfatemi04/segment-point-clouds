@@ -13,7 +13,7 @@ pip install torch transformers opencv-python matplotlib
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/myfatemi04/segment-point-clouds.git
 cd yourrepository
 ```
 
